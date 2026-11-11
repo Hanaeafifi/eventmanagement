@@ -17,7 +17,8 @@ try {//crée la connexion avec la base
         $user,
         $password
     );
-     //vvvvvvvvvvv
+     //vggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+     //vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 //active les erreurs PDO,si SQL bug → message d’erreur visible
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
