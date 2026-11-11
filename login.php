@@ -40,7 +40,7 @@
             padding: 12px;
             background: #5b1464;
             border: none;
-            color: white;
+            color: red;
             border-radius: 8px;
             cursor: pointer;
             font-size: 16px;
